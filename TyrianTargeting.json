@@ -16,6 +16,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/rubyblaire/tyrian-targeting/main/images/icon.png",
   "Punchline": "GW2-inspired manual tab targeting for FFXIV.",
   "AcceptsFeedback": true
 }
