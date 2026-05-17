@@ -6,6 +6,9 @@ Tyrian Targeting is a Dalamud plugin for Final Fantasy XIV that refines manual t
 
 Tyrian Targeting does **not** auto-target, react to combat mechanics, or make combat decisions for the player. A target only changes when the player presses a keybind or command.
 
+```text
+https://raw.githubusercontent.com/rubyblaire/tyrian-targeting/refs/heads/main/pluginmaster.json
+```
 ---
 
 ## Features

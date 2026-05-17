@@ -2,14 +2,16 @@
   "Author": "Ruby Blaire",
   "Name": "Tyrian Targeting",
   "InternalName": "TyrianTargeting",
-  "AssemblyVersion": "0.2.18.0",
-  "Description": "GW2-inspired manual tab targeting refinement for FFXIV.",
+  "AssemblyVersion": "0.2.19.0",
+  "Description": "Tyrian Targeting is a GW2-inspired manual targeting refinement plugin for FFXIV. It improves tab targeting with configurable target cycling, called targets, target markers, presets, filters, and theme options while keeping all targeting fully manual.",
   "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/rubyblaire/tyrian-targeting",
   "Tags": [
-    "targeting",
-    "combat",
-    "utility",
-    "manual"
+    "Targeting",
+    "Combat",
+    "Utility",
+    "Manual",
+    "GW2"
   ],
   "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
