@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TyrianTargeting/0.2.18.0": {
+        "runtime": {
+          "TyrianTargeting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TyrianTargeting/0.2.18.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

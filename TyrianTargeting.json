@@ -1,0 +1,21 @@
+{
+  "Author": "Ruby Blaire",
+  "Name": "Tyrian Targeting",
+  "InternalName": "TyrianTargeting",
+  "AssemblyVersion": "0.2.18.0",
+  "Description": "GW2-inspired manual tab targeting refinement for FFXIV.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "targeting",
+    "combat",
+    "utility",
+    "manual"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "GW2-inspired manual tab targeting for FFXIV.",
+  "AcceptsFeedback": true
+}
